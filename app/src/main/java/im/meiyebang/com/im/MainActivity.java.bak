@@ -1,4 +1,4 @@
-地方大幅度package im.meiyebang.com.im;
+package im.meiyebang.com.im;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
