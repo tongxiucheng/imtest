@@ -1,4 +1,4 @@
-地方大幅度package im.meiyebang.com.im;
+package im.meiyebang.com.im;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -22,13 +22,8 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-				ddd
-
-					dd
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
-
-					d
             }
         });
     }
